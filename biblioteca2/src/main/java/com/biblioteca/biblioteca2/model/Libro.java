@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 @Data// Creo el acceso a los datos de clase get y set
 @NoArgsConstructor// Crear un constructor vacío
-@AllArgsConstructor// Crear un constructor que recibe argumentos
+@AllArgsConstructor// Crear un constructor que recibe argumentossssss
 public class Libro {
     //Atributos Libro
     private int id;
