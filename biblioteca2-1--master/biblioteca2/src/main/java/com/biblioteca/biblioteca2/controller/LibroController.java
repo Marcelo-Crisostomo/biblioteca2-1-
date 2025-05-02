@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Optional;
 
-@RestController //Clase de tipooo controlador rest
+@RestController //Clase de tipppooo controlador rest
 @RequestMapping("/libros") //para indicarle la ruta base de mi proyecto
 
 public class LibroController {
